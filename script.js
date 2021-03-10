@@ -41,3 +41,8 @@ $(document).ready(
     }
 );
 });
+
+$('button').on('click', function() {
+    $('td').show();
+    $('th').show();
+});
