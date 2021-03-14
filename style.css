@@ -1,5 +1,5 @@
 #searchBox{
-    width:320px;
+    width:1320px;
 }
 
 
@@ -9,6 +9,6 @@
         font-size : 0.83em;
     }
     #searchBox{
-        width:120px;
+        width:125px;
     }
 }
